@@ -40,5 +40,9 @@ public class TestClass {
                 System.out.println(2);
         }
 
+        for (i = 0; i < 15; i++) {
+            System.out.println("step" + i);
+        }
+
     }
 }
